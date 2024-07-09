@@ -1,4 +1,10 @@
 # cloudflare-cors-anywhere
+
+`yarn install --check-files`
+`npx wrangler deploy`
+
+---
+
 Cloudflare CORS proxy in a worker.
 
 CLOUDFLARE-CORS-ANYWHERE
