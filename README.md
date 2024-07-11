@@ -1,6 +1,14 @@
 # cloudflare-cors-anywhere
 
+Personal usage notes
+
+## Install packages
 `yarn install --check-files`
+
+## Login
+Login to `wrangler` on local.
+
+## Deploy to cloudflare
 `npx wrangler deploy`
 
 ---
