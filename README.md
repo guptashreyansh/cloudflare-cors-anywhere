@@ -1,6 +1,6 @@
 # cloudflare-cors-anywhere
 
-Personal usage notes
+Usage notes
 
 ## Install packages
 `yarn install --check-files`
